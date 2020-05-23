@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        " a ",
+        " a ",
+        " x "
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "minecraft:stick"
+        },
+        "a":
+        {
+            "item": "minecraft:blaze_rod"
+        }
+    },
+    "result":
+    {
+        "item": "superzwaard:magmazwaard",
+        "count": 1
+    }
+}
